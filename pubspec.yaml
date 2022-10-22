@@ -1,0 +1,101 @@
+name: gdm_bloc
+description: GDM app that showcases bloc state management patterns.
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ">=2.18.2 <3.0.0"
+
+dependencies:
+  accordion: ^2.5.1
+  animated_toggle_switch: ^0.5.2
+  auto_size_text: ^3.0.0
+  badges: ^2.0.3
+  bloc: ^8.1.0
+  card_swiper: ^2.0.4
+  dropdown_button2: ^1.8.1
+  easy_localization: ^3.0.1
+  easy_refresh: ^3.0.4+2
+  flip_card: ^0.6.0
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.1
+  flutter_easyloading: ^3.0.5
+  flutter_localizations:
+    sdk: flutter
+  flutter_map: ^3.0.0-beta.3
+  flutter_svg: ^1.0.3
+  fluttertoast: ^8.0.9
+  flutter_vector_icons: ^2.0.0
+  formz: ^0.4.1
+  just_the_tooltip: ^0.0.12
+  liquid_progress_indicator: ^0.4.0
+  logger: ^1.1.0
+  google_fonts: ^3.0.1
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  intl: ^0.17.0
+  loading_animation_widget: ^1.2.0+3
+  motion_toast: ^2.4.3
+  ngi_api:
+    path: packages/ngi_api
+  ngi_repository:
+    path: packages/ngi_repository
+  os_detect: ^2.0.1
+  quickalert: ^1.0.0
+  text_scroll: ^0.1.0
+  timeago: ^3.3.0
+  tuple: ^2.0.0
+
+dev_dependencies:
+  bloc_test: ^9.1.0
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1
+  mockingjay: ^0.3.0
+  mocktail: ^0.3.0
+  very_good_analysis: ^3.0.2
+
+flutter:
+  uses-material-design: true
+  generate: true
+  assets:
+    - assets/translations/
+    - assets/images/flags/
+    - assets/images/fleet/building/
+    - assets/images/fleet/bus/
+    - assets/images/fleet/commercial_vehicle/
+    - assets/images/fleet/concrete_mixer/
+    - assets/images/fleet/container/
+    - assets/images/fleet/container_truck/
+    - assets/images/fleet/dump_truck/
+    - assets/images/fleet/fuel_tank_truck/
+    - assets/images/fleet/guide/
+    - assets/images/fleet/home/
+    - assets/images/fleet/light_truck/
+    - assets/images/fleet/motorcycle/
+    - assets/images/fleet/person/
+    - assets/images/fleet/personal_vehicle/
+    - assets/images/fleet/pilgrim/
+    - assets/images/fleet/refrigerated_truck/
+    - assets/images/fleet/refrigerator/
+    - assets/images/fleet/shelter/
+    - assets/images/fleet/ship/
+    - assets/images/fleet/shop/
+    - assets/images/fleet/speedboat/
+    - assets/images/fleet/store/
+    - assets/images/fleet/tank/
+    - assets/images/fleet/tank_truck/
+    - assets/images/fleet/trailer_truck/
+    - assets/images/fleet/train/
+    - assets/images/fleet/truck/
+    - assets/images/fleet/utility_truck/
+    - assets/images/fleet/warehouse/
+    - assets/images/brands/
+    - assets/images/containerimg/
+    - assets/images/user/
+    - assets/images/login/
+    - assets/images/sidebar/
+    - assets/images/cars/
+    - assets/images/sensors/
+    - assets/images/

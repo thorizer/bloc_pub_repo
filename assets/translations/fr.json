@@ -1,0 +1,90 @@
+{
+    "sensor_name": {
+        "speed": "Vitesse",
+        "OPENED": "Ouvert",
+        "CLOSED": "Fermé",
+        "ENABLED": "Activé",
+        "DISABLED": "Désactivé",
+        "LIT": "Allumé",
+        "OFF": "Eteint",
+        "SPINNING": "Tourne",
+        "STOP": "Arrêt",
+        "AVAILABLE": "Disponible",
+        "OCCUPIED": "Occupé",
+        "null": "Inconnu"
+    },
+    "asset_menu": {
+        "locate": "Localiser",
+        "lock": "Verrouiller",
+        "unlock": "Déverrouiller",
+        "follow": "Suivre",
+        "unfollow": "Ne plus suivre"
+    },
+    "toast": {
+        "recent_event": "Événement récent",
+        "recent_fleet_event": "Événement de flotte récent",
+        "none": "Aucun",
+        "real_time_server": "Serveur temps réel"
+    },
+    "alert": {
+        "data_loading_error": "Erreur de chargement des données",
+        "data_loading_error_message": "Une erreur est survenue lors du chargement des données. Veuillez réessayer.",
+        "try_again": "Réessayer",
+        "reconnect": "Reconnecter",
+        "unothorized_access": "Accès non autorisé",
+        "unothorized_access_message": "Votre session a expirée. Veuillez vous connecter à nouveau."
+    },
+    "socket": {
+        "disconnected": "Déconnecté",
+        "connected": "Connecté",
+        "reconnecting": "Reconnexion",
+        "unauthorized": "Non autorisé",
+        "connecting": "Connexion"
+    },
+    "swiper": {
+        "address_not_available": "Adresse non disponible",
+        "date_not_available": "Date non disponible",
+        "no_gps_date": "Pas de date GPS",
+        "no_stop_date": "Pas de date d'arrêt",
+        "stopped_since": "En arrêt depuis",
+        "driver": "Conducteur"
+    },
+    "placeholder": {
+        "search_asset": " 🚚 rechercher un asset",
+        "search_company": " 🏦 rechercher une société ",
+        "search_fleet": " 🚍 rechercher une flotte"
+    },
+    "alerts": {
+        "OVER": "Over speed 1",
+        "overs": "Over speed 2",
+        "over_s": "Over speed 3",
+        "OVER_sp": "Over speed 4",
+        "no_recent_alert": "Pas d'alerts récentes",
+        "OVER_SPEED_MSG": "Dépassement de vitesse: ",
+        "MAINTENANCE_ANNUAL_TIME_MSG": "Maintenance annuelle: ",
+        "CORRIDOR_OUT_MSG": "Sortie Corridor: ",
+        "ZONE_IN_MSG": "Entrée de zone: ",
+        "ZONE_OUT_MSG": "Sortie de zone: ",
+        "ZONE_IN_OUT_MSG": "Entrée/Sortie de zone: ",
+        "NEAR_POI_CHECK_MSG": "Position près de mes POIs: ",
+        "OVER_SENSOR_MSG": "Dépassement seuil capteur: ",
+        "LOW_SENSOR_MSG": "Seuil bas capteur: ",
+        "STATUS_SENSOR_MSG": "État capteur: ",
+        "STOP_OUT_POI_MSG": "Stop extérieur des points d'interêts associés",
+        "ODOMETER_THRESHOLD_MSG": "Dépassement seuil kilométrage: ",
+        "ODOMETER_VARIATION_MSG": "Variation kilométrage: ",
+        "MAINTENANCE_PERIODIC_TIME_MSG": "Maintenance périodique: ",
+        "DRIVE_OUT_OF_TIME_SLOT_MSG": "Conduite hors plage horaire: ",
+        "TOWING_ALERT_MSG": "Remorquage",
+        "PANIC_ALERT_MSG": "Panique",
+        "GPS_COVERAGE_PROBLEM_ALERT_MSG": "Problème de couverture GPS",
+        "POWER_LOST_ALERT_MSG": "Perte de tension",
+        "REFUELING_ALERT_MSG": "Quantité ravitaillée: ",
+        "STOP_OUT_POI_ALERT_MSG": "Alerte contact ON, véhicule en arrêt",
+        "IDLE_ALERT_MSG": "Alerte contact ON, véhicule en arrêt",
+        "IDLE_RPM_ALERT_MSG": "Alerte moteur tourne, véhicule en arrêt",
+        "SIPHONING_ALERT_MSG": "Quantité siphonnéé: ",
+        "DISABLE_DEVICE_ALERT_MSG": "Alerte boitier désactivé depuis :",
+        "TOTAL_CARD_ALERT_MSG": "Dépassement plafond: "
+    }
+}

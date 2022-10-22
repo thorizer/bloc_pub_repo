@@ -1,0 +1,91 @@
+{
+    "sensor_name": {
+        "speed": "Speed",
+        "OPENED": "Opened",
+        "CLOSED": "Closed",
+        "ENABLED": "Enabled",
+        "DISABLED": "Disabled",
+        "LIT": "Lit",
+        "OFF": "Off",
+        "SPINNING": "Spinning",
+        "STOP": "Stop",
+        "AVAILABLE": "Available",
+        "OCCUPIED": "Occupied",
+        "null": "Unknown"
+    },
+    "asset_menu": {
+        "locate": "Locate",
+        "lock": "Lock",
+        "unlock": "Unlock",
+        "follow": "Follow",
+        "unfollow": "Unfollow"
+    },
+    "toast": {
+        "recent_event": "Recent Event",
+        "recent_fleet_event": "Recent Fleet Event",
+        "none": "None",
+        "real_time_server": "Real Time Server"
+    },
+    "alert": {
+        "data_loading_error": "Data loading error",
+        "data_loading_error_message": "Something went wrong, either your network or the server was down. please try again",
+        "try_again": "Try again",
+        "reconnect" : "Reconnect",
+        "unothorized_access" : "Unothorized Access",
+        "unothorized_access_message" : "Your session has expired, please reconnect"
+    },
+    "socket": {
+        "disconnected": "Disconnected",
+        "connected": "Connected",
+        "reconnecting": "Reconnecting",
+        "unauthorized": "Unauthorized",
+        "connecting": "Connecting"
+    },
+    "swiper": {
+        "address_not_available": "Address not available",
+        "date_not_available": "Date not available",
+        "no_gps_date": "No GPS date",
+        "no_stop_date": "No stop date",
+        "stopped_since": "Stopped since",
+        "driver": "Driver"
+    },
+    "placeholder": {
+        "search_asset": " 🚚 search an asset",
+        "search_company": " 🏦 Search a company ",
+        "search_fleet": " 🚍 Search a fleet "
+    },
+    "address_not_available": "Address not available",
+    "alerts": {
+        "OVER": "Over speed 1",
+        "overs": "Over speed 2",
+        "over_s": "Over speed 3",
+        "OVER_sp": "Over speed 4",
+        "no_recent_alert": "No recent alerts",
+        "OVER_SPEED_MSG": "Over speed: ",
+        "MAINTENANCE_ANNUAL_TIME_MSG": "Annual maintenance: ",
+        "STOP_OUT_POI_ALERT_MSG": "Asset stopped and out the zone",
+        "IDLE_ALERT_MSG": "Contact ON, asset stop alert",
+        "IDLE_RPM_ALERT_MSG": "Engine running, asset stop alert",
+        "SIPHONING_ALERT_MSG": "Siphoning quantity: ",
+        "DISABLE_DEVICE_ALERT_MSG": "Disabled device alert since :",
+        "TOTAL_CARD_ALERT_MSG": "Card limit exceeded: ",
+        "CORRIDOR_OUT_MSG": "Corridor out: ",
+        "ZONE_IN_MSG": "Zone in: ",
+        "ZONE_OUT_MSG": "Zone out: ",
+        "ZONE_IN_OUT_MSG": "Zone in/out: ",
+        "NEAR_POI_CHECK_MSG": "Near POIs check: ",
+        "OVER_SENSOR_MSG": "Over sensor: ",
+        "LOW_SENSOR_MSG": "Low sensor: ",
+        "STATUS_SENSOR_MSG": "Status sensor: ",
+        "STOP_OUT_POI_MSG": "Not Near POIs check: ",
+        "ODOMETER_THRESHOLD_MSG": "Odometer threshold: ",
+        "ODOMETER_VARIATION_MSG": "Odometer variation: ",
+        "MAINTENANCE_PERIODIC_TIME_MSG": "Periodic maintenance: ",
+        "DRIVE_OUT_OF_TIME_SLOT_MSG": "Drive out of time slot: ",
+        "TOWING_ALERT_MSG": "Towing",
+        "PANIC_ALERT_MSG": "Panic",
+        "GPS_COVERAGE_PROBLEM_ALERT_MSG": "GPS coverage problem",
+        "POWER_LOST_ALERT_MSG": "Power lost",
+        "REFUELING_ALERT_MSG": "Refueling quantity: "
+    }
+}
